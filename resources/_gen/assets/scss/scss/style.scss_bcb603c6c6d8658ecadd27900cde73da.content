@@ -4677,18 +4677,19 @@ ol {
     flex: 1 0 100%; }
 
 .team-summary-large {
-  background-color: #f6f7ff;
+  background-color: rgba(180, 180, 180, 0.1);
   padding: 30px;
   border-radius: 3px; }
   .team-summary-large .team-image {
     height: 90px;
     width: 90px;
     margin-right: 20px;
-    border-radius: 50%;
+    border-radius: 15%;
     overflow: hidden; }
     .team-summary-large .team-image img {
-      width: 90px;
-      height: auto; }
+      width: 150px;
+      height: auto;
+      margin-left: -27px; }
 
 .page-services-single .content > p:first-of-type {
   font-size: 1.6rem;

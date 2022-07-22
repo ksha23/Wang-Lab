@@ -1,8 +1,8 @@
 ---
 title: 'Team'
-intro_image: "images/group_photo.jpg"
+intro_image: "http://wang.wustl.edu/images/WangLab2021.jpg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: false
+intro_image_hide_on_mobile: true
 ---
 
 # Wang Lab Team

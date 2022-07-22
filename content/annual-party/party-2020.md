@@ -5,4 +5,11 @@ draft: false
 unlisted: true
 ---
 Click thumbnails to view larger pictutes, then use arrow key (left, right) to navigate.
-{{< gallery dir="/images/albums/party-2020/" />}}{{< load-photoswipe >}}
+
+{{< gallery >}}
+{{< figure src = "http://wang.wustl.edu/images/Summer2020/lab2020-1Large.jpg" >}}	 
+{{< figure src = "http://wang.wustl.edu/images/Summer2020/lab2020-2Large.jpg" >}}	 
+{{< figure src = "http://wang.wustl.edu/images/Summer2020/lab2020-3Large.jpg" >}}	 
+{{< figure src = "http://wang.wustl.edu/images/Summer2020/lab2020-4Large.jpg" >}}	 
+{{< /gallery >}}
+{{< load-photoswipe >}}

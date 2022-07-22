@@ -35,18 +35,19 @@
 }
 
 .team-summary-large {
-  background-color: $white-offset;
+  background-color: rgba(180, 180, 180, 0.1);
   padding: 30px;
   border-radius: 3px;
   .team-image {
     height: 90px;
     width: 90px;
     margin-right: 20px;
-    border-radius: 50%;
+    border-radius: 15%;
     overflow: hidden;
     img {
-      width: 90px;
+      width: 150px;
       height: auto;
+      margin-left: -27px
     }
   }
 }

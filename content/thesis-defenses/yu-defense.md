@@ -5,4 +5,11 @@ draft: false
 unlisted: true
 ---
 Click thumbnails to view larger pictutes, then use arrow key (left, right) to navigate.
-{{< gallery dir="/images/albums/yu-defense/" />}}{{< load-photoswipe >}}
+
+{{< gallery >}}
+{{< figure src = "http://wang.wustl.edu/img/Yu_Defense/IMG_7240_resize.jpg" >}}	 
+{{< figure src = "http://wang.wustl.edu/img/Yu_Defense/IMG_7241_resize.jpg" >}} 
+{{< figure src = "http://wang.wustl.edu/img/Yu_Defense/IMG_7242_resize.jpg" >}}
+{{< figure src = "http://wang.wustl.edu/img/Yu_Defense/IMG_7243_resize.jpg" >}}	
+{{< /gallery >}}
+{{< load-photoswipe >}}
