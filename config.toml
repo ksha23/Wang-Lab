@@ -21,7 +21,7 @@ theme = "hugo-serif"
   [params.logo]
     mobile = "images/logo/logo.png"
     mobile_height = "36px"
-    desktop = "images/logo/logo.png"
+    desktop = "images/logo/stuff.png"
     desktop_height = "36px"
     alt = "Wang Lab"
 
@@ -62,7 +62,7 @@ theme = "hugo-serif"
       weight = 2
 
   [[menu.main]]
-      name = "About Wang Lab"
+      name = "About"
       url = "/about/"
       weight = 1
 
