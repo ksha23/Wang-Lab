@@ -19,16 +19,16 @@ theme = "hugo-serif"
     show_services_button = false  # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo.png"
+    mobile = "images/logo/old_logo.png"
     mobile_height = "36px"
-    desktop = "images/logo/stuff.png"
+    desktop = "images/logo/old_logo.png"
     desktop_height = "36px"
     alt = "Wang Lab"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
     google_fonts = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Source+Sans+Pro:wght@400;700&display=swap'
-    heading = "Playfair Display"
+    heading = "Source Sans Pro"
     base = "Source Sans Pro"
 
   [params.colors]
@@ -41,7 +41,7 @@ theme = "hugo-serif"
   [params.seo]
     meta_twitter_site = "@zerostaticio"
     meta_twitter_creator = "@zerostaticio"
-    meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
+    meta_og_image = "/images/screenshot.png"
 
   [params.team]
     summary_large_truncate = 300  # How many characters to include in the summary of the team bios (large layout) before truncating

@@ -7,12 +7,12 @@ date: 2018-02-22T17:01:34+07:00
 ---
 
 {{< altmetric 132933942 >}}
--   [Exploring genomic data coupled with 3D chromatin structures using the WashU Epigenome Browser](https://www.nature.com/articles/s41592-022-01550-y)\
+-   [Exploring genomic data coupled with 3D chromatin structures using the WashU Epigenome Browser](https://doi.org/10.1038/s41592-022-01550-y)\
     Daofeng Li, Jessica K. Harrison, Deepak Purushotham & Ting Wang  
     Nature Methods (2022).
 
 {{< altmetric 129778296 >}}
--   [Developmental pathways are epigenetically reprogrammed during lung cancer brain metastasis](https://pubmed.ncbi.nlm.nih.gov/35706127)\
+-   [Developmental pathways are epigenetically reprogrammed during lung cancer brain metastasis](https://doi.org/10.1158/0008-5472.can-21-4160)\
     Karlow JA, Devarakonda S, Xing X, Jang HS, Govindan R, Watson MA, Wang T.\
     Cancer Res. 2022 Jun 15:canres.4160.2021-12-4 00:44:15.000. doi: 10.1158/0008-5472.CAN-21-4160.
 
