@@ -2,6 +2,12 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+7-23-2022. 2022 annual summer party!! Some pictures. Thanks to everyone!!
+
+7-21-2022. 3D genome browser paper is [online at Nature Methods](https://www.nature.com/articles/s41592-022-01550-y) today!
+
+7-20-2022. Yiran Hou successfully defended her PhD thesis. Congratulations Dr. Hou! Some pictures.
+
 6-20-2022. 3D genome browser paper is accepted by Nature Methods! Congratulations!!
 
 6-15-2022. Jen's lung cancer paper is [online at Cancer Research](https://pubmed.ncbi.nlm.nih.gov/35706127) today!
