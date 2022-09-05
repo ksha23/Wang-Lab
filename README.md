@@ -1,2 +1,2 @@
 # Wang Lab Website Code
-## Created using Hugo static website generator
+Created using Hugo static website generator
